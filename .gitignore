@@ -1,4 +1,7 @@
 /docker/homestead.tgz
 **/node_modules/
 
-/workspace-www/**/*
+
+#!workspace-www/
+#workspace-www/*
+#!workspace-www/default/
